@@ -19,7 +19,6 @@
 | Octave      | 12       | A to A    | B to B    | C to C    | D to D    | E to E    | F to F    | G to G    |
 
 ## Major Scale And Minor Scale
-
 ### Major Scale
 
 | Natural Note | R / W | M2 / W | M3 / H | P4 / W | P5 / W | M6 / W | M7 / H |
@@ -42,3 +41,26 @@
 | E            | E     | F#     | G      | A      | B      | C      | D      |
 | F            | F     | G      | G#     | A#     | C      | C#     | D#     |
 | G            | G     | A      | A#     | C      | D      | D#     | F      |
+
+## Major Key And Minor Key
+### Major Key
+| Natural Note | I | ii  | iii | IV | V  | vi  | vii°  |
+| ------------ | - | --- | --- | -- | -- | --- | ----- |
+| A            | A | Bm  | C#m | D  | E  | F#m | G#dim |
+| B            | B | C#m | D#m | E  | F# | G#m | A#dim |
+| C            | C | Dm  | Em  | F  | G  | Am  | Bdim  |
+| D            | D | Em  | F#m | G  | A  | Bm  | C#dim |
+| E            | E | F#m | G#m | A  | B  | C#m | D#dim |
+| F            | F | Gm  | Am  | A# | C  | Dm  | Edim  |
+| G            | G | Am  | Bm  | C  | D  | Em  | F#dim |
+
+### Minor Key
+| Natural Note | i  | ii°   | III | iv  | v   | VI | VII |
+| ------------ | -- | ----- | --- | --- | --- | -- | --- |
+| A            | Am | Bdim  | C   | Dm  | Em  | F  | G   |
+| B            | Bm | C#dim | D   | Em  | F#m | G  | A   |
+| C            | Cm | Ddim  | D#  | Fm  | Gm  | G# | A#  |
+| D            | Dm | Edim  | F   | Gm  | Am  | A# | C   |
+| E            | Em | F#dim | G   | Am  | Bm  | C  | D   |
+| F            | Fm | Gdim  | G#  | A#m | Cm  | C# | D#  |
+| G            | Gm | Adim  | A#  | Cm  | Dm  | D# | F   |
